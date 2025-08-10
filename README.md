@@ -1,4 +1,4 @@
-Welcome to Nexa Coach AI! 🤖✨
+#Welcome to Nexa Coach AI! 🤖✨
 Your personal AI-powered life coach designed to empower your daily routine and unlock your true potential. Whether you're aiming for better habits, productive daily schedules, or meaningful personal growth, Nexa Coach AI is here to guide you every step of the way.
 
 🗓️ Daily Programs & Plans: Tailored just for you, to keep you motivated and on track.
